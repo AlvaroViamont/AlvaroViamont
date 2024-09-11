@@ -2,11 +2,12 @@
 <p align="center">🌍 Bolivia | 📧 <a href="mailto: alvaro.viamont.seraphys@gmail.com">Escríbeme</a> | 💼 <a href='https://www.linkedin.com/in/alvaroviamontrico/'>LinkedIn</a> | 🐍 Python Enthusiast</p>
 <br>
 <h3><strong>I'm Alvaro Viamont Rico, Software Engineer, Educator and Community Lead</strong></h3>
-
-## 👨‍💻 **About me**  
-- Python Develpoer
-- Systems Engineer
-- Passionate about data and games
+<div>
+  <h2>👨‍💻 <strong>About me</strong> </h2> 
+  <li>Python Develpoer</li>
+  <li>Systems Engineer</li>
+  <li>Passionate about data and games</li>
+</div>
 
 ---
 
@@ -14,9 +15,13 @@
 - **Python Cochabamba** (Founder, 2020 – Present): Organizing and leading events to promote Python programming in Bolivia.  
 - **Microsoft Learn Student Ambassadors** (Gold Ambassador, 2021 – Present): Teaching and mentoring students globally on Python and Azure technologies.
 
+---
+
 # 🛠 **SKILLS**
 
 ## 🧠 **Data Analysis - Data Science - Data Engineering**
+
+---
 
 ### 📊 **Data Analysis Skills**
 
