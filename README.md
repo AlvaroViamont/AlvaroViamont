@@ -1,4 +1,5 @@
-## Hi there 👋
+# 👨‍💻 **Alvaro Viamont Rico - Software Engineer & Educator**  
+🌍 Bolivia | 📧 [alvaro.viamont.seraphys@gmail.com] | 💼 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/alvaroviamontrico/)) | 🐍 Python Enthusiast
 
 <!--
 **AlvaroViamont/AlvaroViamont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
