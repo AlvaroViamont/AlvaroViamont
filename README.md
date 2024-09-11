@@ -3,19 +3,10 @@
 <br>
 <h3><strong>I'm Alvaro Viamont Rico, Software Engineer, Educator and Community Lead</strong></h3>
 
-
-## 👨‍💻 **What I’m Currently Working On**  
-- Leading Python Cochabamba and organizing workshops and events for the local Python community.
-- Developing a **2D and 3D Game** as part of a course on **PyGame and Roblox Studio** for young students.
-- Enhancing a **Real-Time Data Visualization** project using `tkinter` and `matplotlib`, focused on sensor data analysis.
-
----
-
-## 🌱 **Interests**  
-- **Data Science**: Continuously learning about Machine Learning, AI, and Big Data technologies.  
-- **Game Development**: Creating immersive game experiences using **Roblox Studio** and **PyGame**.  
-- **Public Speaking**: Empowering youth through leadership and communication workshops.  
-- **Cloud Computing**: Exploring Azure’s capabilities for data processing and AI solutions.
+## 👨‍💻 **About me**  
+- Python Develpoer
+- Systems Engineer
+- Passionate about data and games
 
 ---
 
