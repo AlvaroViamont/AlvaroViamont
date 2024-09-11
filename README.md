@@ -1,8 +1,7 @@
-<h1 align="center">👨‍💻 <strong>Alvaro Viamont Rico</strong></h1>
-<h2 align="center"><strong>Software Engineer & Educator</strong></h2>
-
-
+<h1 align="center">👨‍💻 Hi! I'm <strong>Alvaro</strong></h1>
 <p align="center">🌍 Bolivia | 📧 <a href="mailto: alvaro.viamont.seraphys@gmail.com">Escríbeme</a> | 💼 <a href='https://www.linkedin.com/in/alvaroviamontrico/'>LinkedIn</a> | 🐍 Python Enthusiast</p>
+<br>
+<h3><strong>I'm Alvaro Viamont Rico, Software Engineer, Educator and Community Lead</strong></h3>
 
 
 ## 👨‍💻 **What I’m Currently Working On**  
