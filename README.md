@@ -2,7 +2,7 @@
 <h2 align="center"><strong>Software Engineer & Educator</strong></h2>
 
 
-<p align="center">🌍 Bolivia | 📧 <a href="alvaro.viamont.seraphys@gmail.com">Escríbeme</a> | 💼 <a href='https://www.linkedin.com/in/alvaroviamontrico/'>[LinkedIn]</a> | 🐍 Python Enthusiast</p>
+<p align="center">🌍 Bolivia | 📧 <a href="mailto: alvaro.viamont.seraphys@gmail.com">Escríbeme</a> | 💼 <a href='https://www.linkedin.com/in/alvaroviamontrico/'>LinkedIn</a> | 🐍 Python Enthusiast</p>
 
 
 ## 👨‍💻 **What I’m Currently Working On**  
