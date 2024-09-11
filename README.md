@@ -1,19 +1,34 @@
 # 👨‍💻 **Alvaro Viamont Rico** 
 ## **Software Engineer & Educator** 
 
+## 👨‍💻 **What I’m Currently Working On**  
+- Leading Python Cochabamba and organizing workshops and events for the local Python community.
+- Developing a **2D RPG Game** as part of a course on **PyGame** for young students.
+- Enhancing a **Real-Time Data Visualization** project using `tkinter` and `matplotlib`, focused on sensor data analysis.
+
+---
+
+## 🌱 **Interests**  
+- **Data Science**: Continuously learning about Machine Learning, AI, and Big Data technologies.  
+- **Game Development**: Creating immersive game experiences using **Roblox Studio** and **PyGame**.  
+- **Public Speaking**: Empowering youth through leadership and communication workshops.  
+- **Cloud Computing**: Exploring Azure’s capabilities for data processing and AI solutions.
+
+---
+
+## 🎗️ **Volunteer Work**  
+- **Python Cochabamba** (Founder, 2020 – Present): Organizing and leading events to promote Python programming in Bolivia.  
+- **Microsoft Learn Student Ambassadors** (Gold Ambassador, 2021 – Present): Teaching and mentoring students globally on Python and Azure technologies.  
+- **Youth Training Santa Ana de Cala Cala** (2010 – 2016): Taught public speaking and leadership skills to over 200 teenagers.
+
 ## 🛠 **SKILLS**
 
 ### **Languages**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### **Technologies**  
 **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Data Visualization**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
